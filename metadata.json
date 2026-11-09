@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Gideons School - Admissions \u0026 Academics",
+  "description": "Official website and admissions platform for Gideons School in Kenya, offering Early Childhood Development, Primary, Junior Secondary (CBE), and Senior Secondary education.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
